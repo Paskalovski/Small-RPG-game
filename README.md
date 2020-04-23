@@ -11,4 +11,4 @@ Each hero can use one of the available options Attack, Magic or Items
 - Items - You can use one of your magic potions to heal
 
 Main objective:
-Kill the Enemy before it destroys the Village!!! 
+Kill the Enemy before it destroys you and the Village!!! 
