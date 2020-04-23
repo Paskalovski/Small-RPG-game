@@ -131,9 +131,3 @@ while running:
     elif player.get_hp() == 0:
         print(bcolors.FAIL + "YOU LOSE!" + bcolors.ENDC)
         running = False
-
-
-
-
-
-    # running = False
