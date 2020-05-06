@@ -1,4 +1,4 @@
-### Small RPG Game
+## Small RPG Game
 Run the main.py file to Start!!
 
 Game story: The Village is Under attack!! 
